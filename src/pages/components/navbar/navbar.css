@@ -1,0 +1,31 @@
+.Nav{
+    padding: 10px;
+    margin:2px;
+}
+nav{
+    background-color: rgb(22, 109, 124) !important;
+    height:70px;
+}
+.brand-logo{
+  font-family: 'Grand Hotel', cursive;
+  font-size:45px !important;
+  left:50px !important;
+  bottom: 10px;
+  top:-3px;
+  margin-left:10px !important;
+  margin-top:7px;
+  padding-bottom: 17px !important;
+}
+.logout-btn{
+    color: rgb(255, 255, 255) !important;
+    border: 1px wheat;
+    background-color: rgb(185, 9, 9);
+    padding: 9px 12px;
+    margin: 10px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 20px;
+}
+#nav-mobile{
+    margin-right: 50px;
+}

@@ -1,0 +1,11 @@
+.cancB{
+    background-color:rgb(99, 156, 8);
+    margin:10px 50px;
+}
+.delB{
+    background-color: red;
+
+}
+.delB:hover{
+    background-color: rgb(97, 3, 35);
+}

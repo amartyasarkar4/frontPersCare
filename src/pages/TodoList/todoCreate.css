@@ -1,0 +1,15 @@
+.mainStr{
+    position: absolute;
+    width:450px !important;
+    padding:30px 50px;
+    background-color:rgb(255, 254, 254) !important;
+    z-index:2000 !important;
+    /* left:30%; */
+    top:10% !important;
+    border-radius:10px;
+    opacity: 1 !important;
+    margin:auto;
+    margin-left: 30% !important;
+    padding-bottom:70px ;
+   
+}

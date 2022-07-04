@@ -1,0 +1,13 @@
+.andar{
+    margin:auto;
+    margin:100px;
+    box-shadow: 10 10 greenyellow;
+    border: 2 3 gold !important;
+}
+.main{
+    padding:87px;
+    margin:auto;
+    box-shadow: 10 10 greenyellow;
+    border: 32px gold !important;
+    text-align: center;
+}

@@ -1,0 +1,27 @@
+.photoBehav{
+    width:100%!important;
+    height:140px !important;
+    border-radius: 10px !important;
+}
+.photoBehav:hover{
+    opacity: 0.5;
+}
+.allHere{
+    margin:20px;
+}
+.maindiv{
+     margin:10px 0;
+}
+.card-title{
+    color:rgb(3, 70, 133) !important;
+    font-weight: 900 !important;
+    font-size: 20px !important;
+    padding: 0!important;
+    margin: 0!important;
+    position:absolute !important;
+    right: 0;
+    bottom: 0;
+}
+.card-title:hover{
+    background-color: rgba(250, 255, 224, 0.781);
+}
